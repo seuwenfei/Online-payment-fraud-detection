@@ -17,7 +17,7 @@ The dataset consists of 10 variables:
 
 
 ### Python Libraries
-Pandas, Numpy, Seaborn, Matplotlib, Tabulate, Sklearn
+pandas, numpy, seaborn, matplotlib, tabulate, sklearn
 
 Random Forest and Naive Bayes were used to identify online payment fraud due to the large dataset.
 
